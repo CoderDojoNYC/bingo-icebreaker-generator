@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  margin: auto auto;
+}
+
+table {
+  margin: 60px auto;
+  border: thin solid black;
+  width: 800px;
+  height: 800px;
+}
+
+td {
+  border: thin solid black;
+  height: 105px;
+  width: 105px;
+  padding: 5px
+}
+
+td.blank {
+  background: url(coderdojo-logo.png) no-repeat;
+  background-size: 100px 100px;
+  background-position: 8px 8px;
+}
