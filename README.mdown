@@ -1,3 +1,19 @@
 ### Bingo Icebreaker Generator
 
-TODO: add instructions
+#### Installation / Modifying
+```
+bundle install
+modify /source/javascript/application.js.coffee
+add new prompts to the array
+```
+
+#### Running
+Type `middleman` into the shell.
+
+```
+$ middleman
+== The Middleman is loading
+== The Middleman is standing watch at http://0.0.0.0:4567
+```
+
+Now go to http://localhost:4567 on your browser and it should display the app.
