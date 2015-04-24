@@ -5,7 +5,7 @@ body {
 }
 
 table {
-  margin: 60px auto;
+  margin: 40px auto;
   border: thin solid black;
   width: 800px;
   height: 800px;
@@ -34,4 +34,9 @@ h1 {
 h1 > span {
   font-family: "Gotham";
   color: #ED164E;
+}
+
+pre {
+  width: 800px;
+  margin: auto auto;
 }
